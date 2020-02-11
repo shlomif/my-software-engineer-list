@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Awesome Software Engineer
+# My Software Engineer List
 
 This is a list of topics, theory and practical tools I find useful in my career as a Software Engineer. The list is meant to summarize the keywords with links provided.
 

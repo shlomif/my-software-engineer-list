@@ -24,6 +24,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
     - [Component Characteristics](#component-characteristics)
 - [Development Tools, Programming Languages and Useful Software](#development-tools-programming-languages-and-useful-software)
   - [Integrated Development Environments (IDE's)](#integrated-development-environments-ides)
+  - [Code Editors](#code-editors)
   - [Git Tools](#git-tools)
   - [Database Tools](#database-tools)
   - [UML Tools](#uml-tools)
@@ -155,7 +156,6 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 ## Integrated Development Environments (IDE's)
 
 - All-In-One IDE's
-  - [VSCode](https://code.visualstudio.com) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions.
   - [Eclipse](https://www.eclipse.org) - A plugin based IDE, that supports many languages.
 - C# IDE's
   - [Visual Studio IDE](https://visualstudio.microsoft.com) - Microsoft own full fledged IDE, which boasts up-to-date .NET support.
@@ -165,6 +165,10 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Netbeans](https://netbeans.org) - A free and open-source Java IDE.
 - Python IDE's
   - [Jetbrains Pycharm](https://www.jetbrains.com/pycharm/) — The Python IDE for Professional Developers
+
+## Code Editors
+- [VSCode](https://code.visualstudio.com) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions.
+- [Atom](https://atom.io) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions.
 
 ## Git Tools
 

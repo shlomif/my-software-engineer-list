@@ -8,8 +8,8 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Culture Theory](#culture-theory)
   - [Organizational Theory](#organizational-theory)
 - [Management and Planning](#management-and-planning)
-  - [Software Process Models](#software-process-models)
-  - [Popular Software Processes](#popular-software-processes)
+  - [Software Process Frameworks/Models](#software-process-frameworksmodels)
+  - [Popular Software Process](#popular-software-process)
 - [Technical Knowledge](#technical-knowledge)
   - [Discrete Math](#discrete-math)
   - [Algorithms](#algorithms)
@@ -40,23 +40,27 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - What is a Software Process?
 - What is a Software Process Model?
 
-## Software Process Models
+## Software Process Frameworks/Models
 
-- [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) — a linear framework with strict phases.
-- [Prototyping](https://www.guru99.com/software-engineering-prototyping-model.html) — an iterative framework
-- [Incremental]() — a combined linear-iterative framework
-- [Spiral]() — a combined linear-iterative framework
-- [Rapid application development (RAD)]() — an iterative framework
-- [Extreme Programming]() — 
-- [Unified Process]() — 
-- [Agile]() — 
-- [Evolutionary]() — 
+- Core Frameworks
+  - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) — a linear framework with strict phases.
+  - [Iterative](https://en.wikipedia.org/wiki/Iterative_design) - a framework based on a cyclic process of prototyping, testing, analyzing, and refining a product or process.
+  - [Incremental](https://en.wikipedia.org/wiki/Incremental_build_model) — a framework of where a product is designed, implemented and tested incrementally (a little more is added each time) until the product is finished.
+- Combined Frameworks (Many of these are quite similar in practice)
+  - [Agile](https://www.geeksforgeeks.org/software-engineering-agile-software-development/) — an iterative and incremental approach, that is flexible and adopts well to changes.
+  - [Prototyping](https://www.guru99.com/software-engineering-prototyping-model.html) — an iterative and incremental framework that puts great focus on evolutionary prototyping. 
+  - [Spiral](https://en.wikipedia.org/wiki/Spiral_model) — a risk-driven combined linear-iterative framework, that adopts elements from the incremental, waterfall and evolutionaly prototyping model.
+  - [Rapid application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) — an iterative and incremental framework that pust a larger focus on being practical rather than using valuable time on planning, design, and documentation.
+  - [Unified Process](https://en.wikipedia.org/wiki/Unified_Process) — an agile software development process framework, with a heavy focus on UML.
+  - [Evolutionary](https://www.geeksforgeeks.org/software-engineering-evolutionary-model/) — an iterative and incremental framework, relavant for larger projects.
 
-## Popular Software Processes
+## Popular Software Process
+- [SCRUM](https://www.scrumguides.org) - an agile process that works in concentrated chunks of time (sprints), and has well-defined roles for project members. 
+- [Kanban](https://www.atlassian.com/agile/kanban) - an agile process that relies heavily on the usage of a project board, and good communication.
+- [Extreme Programming](http://www.extremeprogramming.org) — an agile process that emphasized pair programming and customer satisfaction.
+- [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) - a specific implementation of the Unified Process.
 
-- Unified Process
-- SCRUM
-- Kanban
+
 
 # Technical Knowledge
 

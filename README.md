@@ -130,11 +130,11 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 ## Object-Oriented
 
-- [Encapsulation]()
+- [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) - bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components.
 
-- [Inheritance]()
+- [Inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)) - a mechanism in which one class acquires the property of another class.
 
-- [Polymorphism]()
+- [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)) - the provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types.
 
 ## Component-Based
 

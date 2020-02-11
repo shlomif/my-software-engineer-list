@@ -11,16 +11,18 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Software Process Definitions](#software-process-definitions)
   - [Software Process Frameworks/Models](#software-process-frameworksmodels)
   - [Popular Software Process](#popular-software-process)
-  - [Subroutines](#subroutines)
 - [Technical Knowledge](#technical-knowledge)
   - [Discrete Math](#discrete-math)
   - [Algorithms](#algorithms)
     - [Search Algorithms](#search-algorithms)
     - [Sort Algorithms](#sort-algorithms)
   - [Software Metrics](#software-metrics)
+  - [Software Quality Characteristics](#software-quality-characteristics)
   - [API Design](#api-design)
   - [SOLID Principles](#solid-principles)
   - [Object-Oriented Programming](#object-oriented-programming)
+    - [Objects and Classes](#objects-and-classes)
+    - [Core Principles](#core-principles)
   - [Component-Oriented Programming](#component-oriented-programming)
     - [Component Characteristics](#component-characteristics)
     - [Defining Software Components](#defining-software-components)
@@ -52,7 +54,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) — a linear framework with strict phases.
   - [Iterative](https://en.wikipedia.org/wiki/Iterative_design) - a framework based on a cyclic process of prototyping, testing, analyzing, and refining a product or process.
   - [Incremental](https://en.wikipedia.org/wiki/Incremental_build_model) — a framework of where a product is designed, implemented and tested incrementally (a little more is added each time) until the product is finished.
-- Combined Frameworks (Many of these are quite similar in practice)
+- Combined Frameworks
   - [Agile](https://www.geeksforgeeks.org/software-engineering-agile-software-development/) — an iterative and incremental approach, that is flexible and adopts well to changes.
   - [Prototyping](https://www.guru99.com/software-engineering-prototyping-model.html) — an iterative and incremental framework that puts great focus on evolutionary prototyping. 
   - [Spiral](https://en.wikipedia.org/wiki/Spiral_model) — a risk-driven combined linear-iterative framework, that adopts elements from the incremental, waterfall and evolutionaly prototyping model.
@@ -66,9 +68,6 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [Kanban](https://www.atlassian.com/agile/kanban) - an agile process that relies heavily on the usage of a project board, and good communication.
 - [Extreme Programming](http://www.extremeprogramming.org) — an agile process that emphasized pair programming and customer satisfaction.
 - [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) - a specific implementation of the Unified Process.
-
-## Subroutines
-- 
 
 
 
@@ -91,30 +90,32 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 ## Software Metrics
 
-- ABC Software Metric
-- Balanced scorecard
-- Bugs per line of code
+- [ABC Software Metric](https://en.wikipedia.org/wiki/ABC_Software_Metric) — an ABC score as a triplet of values that represent the size of a set of source code statements.
+- Bugs per line of code — selfexplanatory
 - [Code coverage](https://en.wikipedia.org/wiki/Code_coverage) — The degree to how much source code of a program that is covered by automated tests.
 - [Cohesion](https://en.wikipedia.org/wiki/Cohesion_(computer_science)) — The degree to which the elements inside a module belong together.
-- Comment density
-- Connascent software components
-- Constructive Cost Model
+- Comment density — a metric decided by either line count or character count in regards comments.
+- [Connascence](https://en.wikipedia.org/wiki/Connascence) — a metric on the complexity caused by dependency relationships (similar to coupling, but it is not the same).
+- [Constructive Cost Model](https://en.wikipedia.org/wiki/COCOMO) — a procedural software cost estimation model.
 - [Coupling](https://en.wikipedia.org/wiki/Coupling_(computer_programming)) — The degree of interdependence between software modules; a measure of how closely connected two routines or modules are; the strength of the relationships between modules.
-- Cyclomatic complexity (McCabe's complexity)
-- Defect density - defects found in a component
-- Defect potential - expected number of defects in a particular component
-- Defect removal rate
-- DSQI (design structure quality index)
-- Function Points and Automated Function Points, an Object Management Group standard[2]
-- Halstead Complexity
-- Instruction path length
-- Maintainability index
-- Number of lines of code
-- Program execution time
-- Program load time
-- Program size (binary)
-- Weighted Micro Function Points
-- CISQ automated quality characteristics measures
+- [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity) — a metric used to indicate the complexity of a program defined by the amounts of linearly independent paths through the program.
+- Defect density — defects found in a component
+- Defect potential — expected number of defects in a particular component
+- [Defect removal rate](https://swtestingconcepts.wordpress.com/test-metrics/defect-removal-efficiency/) —  a measure of a development teams ability to remove defects prior to release.
+- [DSQI (design structure quality index)](https://en.wikipedia.org/wiki/DSQI) —  a metric to indicate a computer program's design structure and the efficiency of its modules (a value from 0 to 1).
+- [Function Points and Automated Function Points](https://en.wikipedia.org/wiki/Function_point) — a metric to express the amount of business functionality an information system provides to a user.
+- [Halstead Complexity]() — metrics to identify measurable properties of software, and the relations between them.
+- [Instruction path length](https://en.wikipedia.org/wiki/Instruction_path_length) — the number of machine code instructions required to execute a section of a computer program.
+- [Maintainability index](https://en.wikipedia.org/wiki/Maintainability#Software_engineering) —  a measure of the ease with which a product can be maintained.
+- [Number of lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code) —  a metric to measure the size of a computer program.
+- [Program execution time](https://en.wikipedia.org/wiki/Runtime_(program_lifecycle_phase)) — a measure of time when the CPU is executing the machine code for a given instruction/method/program.
+- [Program load time](https://en.wikipedia.org/wiki/Loader_(computing)) — a measure of the time it takes to load a program.
+- [Program size (binary)](https://en.wikipedia.org/wiki/Binary_file) — the size of a program in bytes.
+- [Weighted Micro Function Points](https://en.wikipedia.org/wiki/Weighted_Micro_Function_Points) — a successor to the maintainability index, cyclomatic complexity, function points, Halstead complexity and the Constructive Cost Model. It is a metric that measures the overall code complexity and volume metrics in a given system.
+- [CISQ automated quality characteristics](https://content.castsoftware.com/cisq-specification-for-automated-quality-characteristic-measures) — automated measurement of four Software Quality Characteristics. Reliability, Performance Efficiency, Security, and Maintainability.
+
+## Software Quality Characteristics
+
 
 ## API Design
 
@@ -137,6 +138,11 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 ## Object-Oriented Programming
 
+### Objects and Classes
+- [Classes](https://en.wikipedia.org/wiki/Class_(computer_programming)) — an extensible program-code-template for creating objects.
+- [Objects](https://en.wikipedia.org/wiki/Object_(computer_science)) — a particular instance of a class
+
+### Core Principles
 - [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) - bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components.
 
 - [Inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)) - a mechanism in which one class acquires the property of another class.
@@ -166,7 +172,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 ### Elements of a Software Component
 
 - **Component specifications** - documents the piece of functionality implemented by the component.
-- **Component interfaces** - a set of accessible operations.
+- **Component interfaces** - a set of accessible operations through one or more interfaces.
 - **Component implementation(s)** - an implementation of the component specification.
 - **Component model** - defines a standard socket to be implemented by the com- ponent framework, and a standard plug to be implemented by components.
 
@@ -209,7 +215,9 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Dotnet Core](https://docs.microsoft.com/da-dk/dotnet/core/) — an open-source, general-purpose development platform maintained by Microsoft and the .NET community.
     - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) — Build client web apps with C#
 - [Java](https://www.java.com/en/)
-  - [LibGDX](https://libgdx.badlogicgames.com) — an open-source cross-platform Game Deveopment framework.
+  - [JavaFX](https://openjfx.io) - an open source client application platform for desktop, mobile and embedded systems built on Java.
+  - [LibGDX](https://libgdx.badlogicgames.com) — an open-source cross-platform Game Development framework.
+  
 - [Python](https://www.python.org)
   - [Flask](https://www.palletsprojects.com/p/flask/) — a lightweight [WSGI](https://wsgi.readthedocs.io/en/latest/) web application framework.
 - [PHP](https://www.php.net)

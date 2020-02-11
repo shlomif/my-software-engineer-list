@@ -156,11 +156,13 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 - All-In-One IDE's
   - [VSCode](https://code.visualstudio.com) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions.
+  - [Eclipse](https://www.eclipse.org) - A plugin based IDE, that supports many languages.
 - C# IDE's
   - [Visual Studio IDE](https://visualstudio.microsoft.com) - Microsoft own full fledged IDE, which boasts up-to-date .NET support.
   - [Jetbrans Rider](https://visualstudio.microsoft.com) - Jetbrains Rider, is Jetbrains take on a full fledged .NET IDE. Has the full power of ReSharper, which ensures easy coding and a helps ensure a good code quality.
 - Java IDE's
   - [Jetbrains IntelliJ IDEA](https://www.jetbrains.com/idea/) — Capable and Ergonomic IDE for JVM.
+  - [Netbeans](https://netbeans.org) - A free and open-source Java IDE.
 - Python IDE's
   - [Jetbrains Pycharm](https://www.jetbrains.com/pycharm/) — The Python IDE for Professional Developers
 

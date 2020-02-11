@@ -139,15 +139,16 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 ### Component Characteristics
 
-- Part of a Whole
-- Component Ecosystem
-- Component Framework
-- Component Model
-- Provided and Required Interfaces
-- Component Compatability
-- Implementation Independence
-- Producer-Consumer Independence
-- Active and Passive Component
+- **Part of a Whole** - Components can be composed to and decomposed from a system. Composition of an appropriate set of components should yield a complete functional system; decomposition of a complete system should yield the set of constituent components.
+- **Component Ecosystem** - Components are designed to be used in a compositional way together with other components. A component is not normally designed in isolation, but as part of a collection of collaborating components. The collaborating components work in the context of a component framework governed by a component model. The collaborating components, the component framework, and the component model together form a component ecosystem.
+- **Component Framework** - The component framework provides a common fabric or environment over which the components may be composed.
+- **Component Model** - A component model defines what components are, how they can be constructed, how they can be composed, and how they can be deployed. The component model also defines the component framework.
+- **Component Interfaces** - Each component specifies one or more interfaces through which other components can be composed with it. The interfaces adhere to the composition standards defined in the component model.
+- **Provided and Required Interfaces** - One type of interface is meant for other components to compose with this component and make use of the function- ality provided by this component. This type of interface is called a provided interface. Another type of interface is meant for other components to compose with this compo- nent and provide some functionality to this component. This type of interface is called a required interface. A component’s interface specifications include both the provided and required interfaces.
+- **Component Compatability** -  Two components are said to be compatible if they have complementing interfaces (i.e., the provided interface of one component should be the same as the required interface of the other).
+- **Implementation Independence** - Two compatible components (which have complementing interface specifications, by definition of compatibility) can always be composed, irrespective of the manner in which their interfaces are implemented.
+- **Producer-Consumer Independence** - A component may be produced and consumed by different commercial entities, as long as the producer and consumer have a common interface definition for the com- ponent in context. This property of the component is a derivative of implementation independence.
+- **Active and Passive Component** - During the composition process that composes components together, some of the participating components may be actively performing the composition, whereas the others may be passively participating in the composition process. Note that this notion of active and passive components is limited to the composition process; it does not imply that the passive components will continue to play a passive functional role in the resultant composite product.
 
 # Development Tools, Programming Languages and Useful Software
 

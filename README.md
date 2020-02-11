@@ -11,6 +11,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Software Process Definitions](#software-process-definitions)
   - [Software Process Frameworks/Models](#software-process-frameworksmodels)
   - [Popular Software Process](#popular-software-process)
+  - [Subroutines](#subroutines)
 - [Technical Knowledge](#technical-knowledge)
   - [Discrete Math](#discrete-math)
   - [Algorithms](#algorithms)
@@ -19,9 +20,11 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Software Metrics](#software-metrics)
   - [API Design](#api-design)
   - [SOLID Principles](#solid-principles)
-  - [Object-Oriented](#object-oriented)
-  - [Component-Based](#component-based)
+  - [Object-Oriented Programming](#object-oriented-programming)
+  - [Component-Oriented Programming](#component-oriented-programming)
     - [Component Characteristics](#component-characteristics)
+    - [Defining Software Components](#defining-software-components)
+    - [Elements of a Software Component](#elements-of-a-software-component)
 - [Development Tools, Programming Languages and Useful Software](#development-tools-programming-languages-and-useful-software)
   - [Integrated Development Environments (IDE's)](#integrated-development-environments-ides)
   - [Code Editors](#code-editors)
@@ -56,12 +59,16 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Rapid application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) — an iterative and incremental framework that pust a larger focus on being practical rather than using valuable time on planning, design, and documentation.
   - [Unified Process](https://en.wikipedia.org/wiki/Unified_Process) — an agile software development process framework, with a heavy focus on UML.
   - [Evolutionary](https://www.geeksforgeeks.org/software-engineering-evolutionary-model/) — an iterative and incremental framework, relavant for larger projects.
+  - [Component-Based Software Engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering) - an iterative and incremental framework, that is adapted to Component-Based Programming.
 
 ## Popular Software Process
 - [SCRUM](https://www.scrumguides.org) - an agile process that works in concentrated chunks of time (sprints), and has well-defined roles for project members. 
 - [Kanban](https://www.atlassian.com/agile/kanban) - an agile process that relies heavily on the usage of a project board, and good communication.
 - [Extreme Programming](http://www.extremeprogramming.org) — an agile process that emphasized pair programming and customer satisfaction.
 - [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) - a specific implementation of the Unified Process.
+
+## Subroutines
+- 
 
 
 
@@ -128,7 +135,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle) — One should “depend upon abstractions, not concretions.”
 
-## Object-Oriented
+## Object-Oriented Programming
 
 - [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) - bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components.
 
@@ -136,7 +143,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 - [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)) - the provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types.
 
-## Component-Based
+## Component-Oriented Programming
 
 ### Component Characteristics
 
@@ -150,6 +157,18 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - **Implementation Independence** - Two compatible components (which have complementing interface specifications, by definition of compatibility) can always be composed, irrespective of the manner in which their interfaces are implemented.
 - **Producer-Consumer Independence** - A component may be produced and consumed by different commercial entities, as long as the producer and consumer have a common interface definition for the com- ponent in context. This property of the component is a derivative of implementation independence.
 - **Active and Passive Component** - During the composition process that composes components together, some of the participating components may be actively performing the composition, whereas the others may be passively participating in the composition process. Note that this notion of active and passive components is limited to the composition process; it does not imply that the passive components will continue to play a passive functional role in the resultant composite product.
+
+### Defining Software Components
+
+- **Function Libraries as Software Components** - a collection of functions packaged together, to form a function library, with an API. Cannot be resolved at Runtime.
+- **Object Libraries as Software Components** - a collection of objects, taht together form an object library, with an API. Can be resolved at Runtime.
+
+### Elements of a Software Component
+
+- **Component specifications** - documents the piece of functionality implemented by the component.
+- **Component interfaces** - a set of accessible operations.
+- **Component implementation(s)** - an implementation of the component specification.
+- **Component model** - defines a standard socket to be implemented by the com- ponent framework, and a standard plug to be implemented by components.
 
 # Development Tools, Programming Languages and Useful Software
 

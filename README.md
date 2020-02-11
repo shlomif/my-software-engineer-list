@@ -14,8 +14,6 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [Technical Knowledge](#technical-knowledge)
   - [Discrete Math](#discrete-math)
   - [Algorithms](#algorithms)
-    - [Search Algorithms](#search-algorithms)
-    - [Sort Algorithms](#sort-algorithms)
   - [Software Metrics](#software-metrics)
   - [Software Quality Characteristics](#software-quality-characteristics)
   - [API Design](#api-design)
@@ -80,13 +78,41 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 ## Algorithms
 - [Geeksforgeeks: Fundamentals of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) — An online website that covers all the fundamentals of understanding algorithms.
 
-### Search Algorithms
+- [Search Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
+  - Sequential Search Algorithms
+    - [Linear Search](https://www.geeksforgeeks.org/linear-search/)
+  - Interval Search Algorithms
+    - [Binary Search](https://www.geeksforgeeks.org/binary-search/)
+    - [Jump Search](https://www.geeksforgeeks.org/jump-search/)
+    - [Interpolation Search](https://www.geeksforgeeks.org/interpolation-search/)
+    - [Exponential Search](https://www.geeksforgeeks.org/exponential-search/)
+    - [Ternary Search](https://www.geeksforgeeks.org/ternary-search/)
 
-### Sort Algorithms
-
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+- [Sorting Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm)
+  - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+  - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+    - In-place Merge Sort
+  - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
+  - [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
+  - [Introsort](https://en.wikipedia.org/wiki/Introsort)
+  - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
+  - [Timsort](https://en.wikipedia.org/wiki/Timsort)
+  - [Cubesort](https://en.wikipedia.org/wiki/Cubesort)
+  - [Shellsort](https://en.wikipedia.org/wiki/Shellsort)
+  - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+  - [Binary Tree Sort](https://en.wikipedia.org/wiki/Tree_sort)
+  - [Cycle Sort](https://en.wikipedia.org/wiki/Cycle_sort)
+  - [Library Sort](https://en.wikipedia.org/wiki/Library_sort)
+  - [Patience Sorting](https://en.wikipedia.org/wiki/Patience_sorting)
+  - [Smoothsort](https://en.wikipedia.org/wiki/Smoothsort)
+  - [Strand Sort](https://en.wikipedia.org/wiki/Strand_sort)
+  - [Tournament Sort](https://en.wikipedia.org/wiki/Tournament_sort)
+  - [Cocktail Sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort)
+  - [Comb Sort](https://en.wikipedia.org/wiki/Comb_sort)
+  - [Gnome Sort](https://en.wikipedia.org/wiki/Gnome_sort)
+  - [Block Sort](https://en.wikipedia.org/wiki/Block_sort)
+  - [Odd-even Sort](https://en.wikipedia.org/wiki/Odd–even_sort)
+  
 
 ## Software Metrics
 

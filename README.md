@@ -167,8 +167,8 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Jetbrains Pycharm](https://www.jetbrains.com/pycharm/) — The Python IDE for Professional Developers
 
 ## Code Editors
-- [VSCode](https://code.visualstudio.com) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions.
-- [Atom](https://atom.io) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions.
+- [VSCode](https://code.visualstudio.com) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions - Owned by Microsoft
+- [Atom](https://atom.io) - A lightweight code-editor that can become a multipurpose IDE with the use of extensions - Owned by GitHub, that is owned by Microsoft (questionable support).
 
 ## Git Tools
 

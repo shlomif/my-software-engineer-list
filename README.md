@@ -8,6 +8,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Culture Theory](#culture-theory)
   - [Organizational Theory](#organizational-theory)
 - [Management and Planning](#management-and-planning)
+  - [Software Process Definitions](#software-process-definitions)
   - [Software Process Frameworks/Models](#software-process-frameworksmodels)
   - [Popular Software Process](#popular-software-process)
 - [Technical Knowledge](#technical-knowledge)
@@ -37,8 +38,9 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 # Management and Planning
 
-- What is a Software Process?
-- What is a Software Process Model?
+## Software Process Definitions
+- [What is a Software Process Framework/Model](https://www.geeksforgeeks.org/software-engineering-software-process-framework/)
+- [What is a Software Process?](https://en.wikipedia.org/wiki/Software_development_process)
 
 ## Software Process Frameworks/Models
 

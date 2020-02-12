@@ -5,9 +5,8 @@ This is a list of topics, theory and practical tools I find useful in my career 
 
 Feel free to contribute with Pull Requests, or fork this project to create your personalized list.
 
-- [Social Studies](#social-studies)
-  - [Culture Theory](#culture-theory)
-  - [Organizational Theory](#organizational-theory)
+- [Cultural Knowledge](#cultural-knowledge)
+- [Organizational Theory](#organizational-theory)
 - [Management and Planning](#management-and-planning)
   - [Software Process Definitions](#software-process-definitions)
   - [Software Process Frameworks/Models](#software-process-frameworksmodels)
@@ -24,7 +23,17 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Architectural Patterns](#architectural-patterns)
   - [Design Patterns](#design-patterns)
   - [API Design](#api-design)
-- [Computer Programming Types](#computer-programming-types)
+- [Computer Programming](#computer-programming)
+  - [Programming Basics](#programming-basics)
+    - [Data Types](#data-types)
+    - [Variables](#variables)
+    - [Keywords](#keywords)
+    - [Logical and Arthmetical Operators](#logical-and-arthmetical-operators)
+    - [Conditions](#conditions)
+    - [Loops](#loops)
+    - [Numbers, Characters and Arrays](#numbers-characters-and-arrays)
+    - [Functions](#functions)
+    - [Input and Output Operations](#input-and-output-operations)
   - [Object-Oriented Programming](#object-oriented-programming)
     - [Objects and Classes](#objects-and-classes)
     - [The Three Pillars of Object-Oriented Programming](#the-three-pillars-of-object-oriented-programming)
@@ -34,6 +43,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
     - [Defining Software Components](#defining-software-components)
     - [Elements of a Software Component](#elements-of-a-software-component)
 - [Programming Languages and Frameworks](#programming-languages-and-frameworks)
+  - [Multi Purpose Languages](#multi-purpose-languages)
 - [Development Tools](#development-tools)
   - [Integrated Development Environments (IDE's)](#integrated-development-environments-ides)
   - [Code Editors](#code-editors)
@@ -43,11 +53,9 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Software Libraries](#software-libraries)
     - [Search Engines](#search-engines)
 
-# Social Studies
+# Cultural Knowledge
 
-## Culture Theory
-
-## Organizational Theory
+# Organizational Theory
 
 # Management and Planning
 
@@ -169,7 +177,27 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [GraphQL](https://graphql.org) — An approach wherein the user defines the expected data and format of that data.
 - [Webhooks](https://en.wikipedia.org/wiki/Webhook) — Data updates to be served automatically, rather than requested.
 
-# Computer Programming Types
+# Computer Programming
+
+## Programming Basics
+
+### Data Types
+
+### Variables
+
+### Keywords
+
+### Logical and Arthmetical Operators
+
+### Conditions
+
+### Loops
+
+### Numbers, Characters and Arrays
+
+### Functions
+
+### Input and Output Operations
 
 ## Object-Oriented Programming
 
@@ -226,6 +254,8 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - **Component model** — defines a standard socket to be implemented by the component framework, and a standard plug to be implemented by components.
 
 # Programming Languages and Frameworks
+
+## Multi Purpose Languages
 
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
   - [Dotnet Core](https://docs.microsoft.com/da-dk/dotnet/core/) — an open-source, general-purpose development platform maintained by Microsoft and the .NET community.

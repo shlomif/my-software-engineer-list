@@ -6,6 +6,26 @@ This is a list of topics, theory and practical tools I find useful in my career 
 Feel free to contribute with Pull Requests, or fork this project to create your personalized list.
 
 - [Cultural Knowledge](#cultural-knowledge)
+  - [Definitions of Culture](#definitions-of-culture)
+  - [Levels of Culture](#levels-of-culture)
+  - [Cultural Frameworks](#cultural-frameworks)
+  - [Cultural Dimensions (Collected from the Cultural Frameworks)](#cultural-dimensions-collected-from-the-cultural-frameworks)
+  - [Cultural Spheres](#cultural-spheres)
+    - [Other Cultural Spheres](#other-cultural-spheres)
+  - [Dimensions of Corporate Culture](#dimensions-of-corporate-culture)
+  - [Scools of Management](#scools-of-management)
+  - [Cultural Strategy](#cultural-strategy)
+    - [Strategic Processes](#strategic-processes)
+    - [Strategic Profiles](#strategic-profiles)
+    - [Strategic Content](#strategic-content)
+    - [International Strategies](#international-strategies)
+  - [Global Leadership Competencies](#global-leadership-competencies)
+  - [Types of Multicultural Individuals](#types-of-multicultural-individuals)
+  - [Multicultural Teams](#multicultural-teams)
+    - [Strategies for Manging Multicultural Teams](#strategies-for-manging-multicultural-teams)
+  - [Corporate Social Responsibility (CSR) Strategies](#corporate-social-responsibility-csr-strategies)
+  - [Stages of Moral Development](#stages-of-moral-development)
+  - [Analytic Tools](#analytic-tools)
 - [Organizational Theory](#organizational-theory)
 - [Project Management and Planning](#project-management-and-planning)
   - [Process Groups and Deliverables](#process-groups-and-deliverables)
@@ -62,6 +82,180 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
     - [Search Engines](#search-engines)
 
 # Cultural Knowledge
+
+## Definitions of Culture
+
+- Kluckhohn and Strodtbeck — ‘(...) culture might be described as shared assumptions, values and behaviors that distinguish one group from another and are passed on from one generation to the next.’
+
+## Levels of Culture
+
+- Artifacts and Behavior
+  - Architecture and design
+  - Greeting Rituals
+  - Forms of Address
+  - Making Contact
+  - Dress Codes
+  - Written versus Verbal Contracts
+- Beliefs and Values
+- Basic Assumptions
+
+## Cultural Frameworks
+
+- Adler
+- Maznewski
+- Hostede
+- Trompenaars
+- Kluckholm and Strodtbeck
+- Schwartz
+- Schein
+- GLOBE Project
+- Hall
+
+## Cultural Dimensions (Collected from the Cultural Frameworks)
+
+- Natural Environment
+  - Control over nature vs Fatalism
+  - Uncertainty tolerance vs Uncertainty avoidance
+- Activity
+  - Doing vs Being
+  - Achievement vs Ascription
+- Reality
+  - Truth in numbers vs Feelings
+  - Reality is material vs Spiritual
+- Human Nature
+  - Basically good vs Basically evil
+  - Theory Y vs Theory X
+  - High trust vs Low trust
+- Relationships
+  - Task-oriented vs Relationship-oriented
+  - Performance vs Social welfare
+  - Universalist vs Particularist
+  - Egalitarian vs Hiearchical
+  - Individualistic vs Group-oriented
+- Space
+  - Public vs Private
+  - Specific vs Diffuse
+- Language
+  - Low context vs High context
+  - Neutral vs Emotional
+- Time
+  - Monochronic (linear) vs Polychronic (cyclical)
+  - Future vs Past
+
+## Cultural Spheres
+
+- National Cultures
+- Professional Cultures
+- Regional Cultures
+- Industry Cultures
+- Functional Cultures
+- Corporate Cultures
+
+### Other Cultural Spheres
+
+- Global Culture
+- Social Culture
+- Religious Culture
+- Socio-Economic Culture,
+- Gender Culture
+- ...
+
+## Dimensions of Corporate Culture
+
+- Power vs Hierachy
+- People vs Clan
+- Task vs Achievement
+- Role vs Structure
+- Stability vs Control
+- Flexibility vs Adaptability
+- Internal vs External
+
+## Scools of Management
+
+- Scientific Management
+- Human Relations
+- Human Resources
+
+## Cultural Strategy
+
+- Interaction between Strategic Process, Strategic Profile and Strategic Content
+
+### Strategic Processes
+
+- Controlling Model
+- Adapting Model
+
+### Strategic Profiles
+
+- Defender
+- Prospector
+
+### Strategic Content
+
+- Cost reduction vs Growth
+- Innovation vs Status Quo
+- Diversification
+- Internationalisation
+
+### International Strategies
+
+- Global Strategy
+- Transnational Strategy
+- International Strategy
+- Multi-domestic Strategy
+
+## Global Leadership Competencies
+
+- System Skills
+- Interpersonal Skills
+- Attitudes & Orientations Global Mindset
+- Threshold Traits
+- Global Knowledge
+
+## Types of Multicultural Individuals
+
+- Marginals
+- Seperated
+- Integrated
+- Cosmopolitans
+
+## Multicultural Teams
+
+- Diversity
+- Dispersion
+
+### Strategies for Manging Multicultural Teams
+
+- Task Strategies
+  - Creating Purpose
+  - Structuring the Task
+  - Assigning Roles and Responsibilities
+  - Reaching Decisions
+- Process Strategies
+  - Team Building
+  - Choosing Communication
+  - Eliciting Participation
+  - Resolving Conflict
+  - Evaluating Performance
+
+## Corporate Social Responsibility (CSR) Strategies
+
+- The Global Approach
+- The Local Approach
+- The Transnational Approach
+
+## Stages of Moral Development
+
+- Stage 1 - the Amoral Organisation
+- Stage 2 - the Legalistic Organisation
+- Stage 3 - the Eesponsive Organisation
+- Stage 4 - the Emerging Ethical Organisation
+- Stage 5 - the Ethical Organisation
+  
+## Analytic Tools
+
+- The Johari Window
+- Stereotypes
 
 # Organizational Theory
 

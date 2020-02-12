@@ -8,6 +8,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [Cultural Knowledge](#cultural-knowledge)
 - [Organizational Theory](#organizational-theory)
 - [Project Management and Planning](#project-management-and-planning)
+  - [Process Groups/Phases and Deliverables](#process-groupsphases-and-deliverables)
   - [Project Management Life Cycle (PMLC)](#project-management-life-cycle-pmlc)
   - [Software Processes](#software-processes)
 - [Math](#math)
@@ -60,6 +61,25 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 # Organizational Theory
 
 # Project Management and Planning
+
+## Process Groups/Phases and Deliverables
+
+- Initiation
+  - [Project Scope](https://en.wikipedia.org/wiki/Scope_(project_management)) — the scope of the project, including the following (1) Project objective, (2) Deliverables, (3) Milestones, (4) Technical requirements, (5) Limits and exclusions and (6) Reviews with customer.
+  - [Product Breakdown Structure](https://en.wikipedia.org/wiki/Product_breakdown_structure) — a breakdown structure of the product that precedes the work breakdown structure.
+  - [Work Breakdown Structure](https://en.wikipedia.org/wiki/Work_breakdown_structure) — a deliverable-oriented breakdown of a project into smaller components.
+  - Process Breakdown Structure — a breakdown structure of the process.
+  - [Responsibility Assignment Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) — a chart that describes the participation by various roles in completing tasks or deliverables for a project or business process.
+  - [Tentative Project Schedule](https://en.wikipedia.org/wiki/Project_plan)
+  - [Requirements Analysis](https://en.wikipedia.org/wiki/Requirements_analysis)
+  - [Financial Analysis](https://en.wikipedia.org/wiki/Financial_analysis)
+  - [Stakeholder Analysis](https://en.wikipedia.org/wiki/Stakeholder_analysis)
+  - [Project Charter](https://en.wikipedia.org/wiki/Project_charter)
+  - [SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+- Planning
+- Production or execution
+- Monitoring and controlling
+- Closing
 
 ## Project Management Life Cycle (PMLC)
 

@@ -42,6 +42,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
     - [Component Characteristics](#component-characteristics)
     - [Defining Software Components](#defining-software-components)
     - [Elements of a Software Component](#elements-of-a-software-component)
+  - [Data-Oriented Programming](#data-oriented-programming)
 - [Programming Languages and Frameworks](#programming-languages-and-frameworks)
   - [Multi Purpose Languages](#multi-purpose-languages)
 - [Development Tools](#development-tools)
@@ -252,6 +253,8 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - **Component interfaces** — a set of accessible operations through one or more interfaces.
 - **Component implementation(s)** — an implementation of the component specification.
 - **Component model** — defines a standard socket to be implemented by the component framework, and a standard plug to be implemented by components.
+
+## Data-Oriented Programming
 
 # Programming Languages and Frameworks
 

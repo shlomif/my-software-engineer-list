@@ -16,6 +16,11 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [Algorithms](#algorithms)
   - [Search Algorithms](#search-algorithms)
   - [Sorting Algorithms](#sorting-algorithms)
+- [Networking](#networking)
+- [DevOps](#devops)
+- [Database Theory](#database-theory)
+  - [Normal Forms](#normal-forms)
+- [Database Design](#database-design)
 - [Software Theory](#software-theory)
   - [Software Metrics](#software-metrics)
   - [Software Quality Attributes](#software-quality-attributes)
@@ -158,6 +163,16 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 - [Gnome Sort](https://en.wikipedia.org/wiki/Gnome_sort)
 - [Block Sort](https://en.wikipedia.org/wiki/Block_sort)
 - [Odd-even Sort](https://en.wikipedia.org/wiki/Odd–even_sort)
+
+# Networking
+
+# DevOps
+
+# Database Theory
+
+## Normal Forms
+
+# Database Design
 
 # Software Theory
 

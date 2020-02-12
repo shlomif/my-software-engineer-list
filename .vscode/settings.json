@@ -1,0 +1,59 @@
+{
+    "ltex.en-US.disabledRules": [
+        "PUNCTUATION_PARAGRAPH_END"
+    ],
+    "ltex.ignoreRuleInSentence": [
+        {
+            "rule": "MORFOLOGIK_RULE_EN_US",
+            "sentence": "^\\QSorting Algorithms\nQuick Sort\nMerge Sort\nIn-place Merge Sort\nHeap Sort\nInsertion Sort\nIntrosort\nSelection Sort\nTimsort\nCubesort\nShellsort\nBubble Sort\nBinary Tree Sort\nCycle Sort\nLibrary Sort\nPatience Sorting\nSmoothsort\nStrand Sort\nTournament Sort\nCocktail Sort\nComb Sort\nGnome Sort\nBlock Sort\nOdd-even Sort\\E$"
+        },
+        {
+            "rule": "MORFOLOGIK_RULE_EN_US",
+            "sentence": "^\\QConnascence — a metric on the complexity caused by dependency relationships (similar to coupling, but it is not the same).\\E$"
+        },
+        {
+            "rule": "MORFOLOGIK_RULE_EN_US",
+            "sentence": "^\\QCISQ automated quality characteristics — automated measurement of four Software Quality Characteristics.\\E$"
+        },
+        {
+            "rule": "UPPERCASE_SENTENCE_START",
+            "sentence": "^\\QgRPC — A nimble and lightweight system for requesting data.\\E$"
+        },
+        {
+            "rule": "COMMA_PARENTHESIS_WHITESPACE",
+            "sentence": "^\\QC# IDE's\nVisual Studio IDE — Microsoft own full fledged IDE, which boasts up-to-date .NET support.\\E$"
+        },
+        {
+            "rule": "COMMA_PARENTHESIS_WHITESPACE",
+            "sentence": "^\\QJetbrains Rider — Jetbrains Rider, is Jetbrains take on a full fledged .NET IDE.\\E$"
+        },
+        {
+            "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+            "sentence": "^\\QComponent implementation(s) — an implementation of the component specification.\\E$"
+        },
+        {
+            "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+            "sentence": "^\\QComponent model — defines a standard socket to be implemented by the component framework, and a standard plug to be implemented by components.\\E$"
+        },
+        {
+            "rule": "MORFOLOGIK_RULE_EN_US",
+            "sentence": "^\\QDraw.io\\E$"
+        },
+        {
+            "rule": "MORFOLOGIK_RULE_EN_US",
+            "sentence": "^\\QDraw.io — an open platform where you can create and share UML diagrams.\\E$"
+        },
+        {
+            "rule": "COMMA_PARENTHESIS_WHITESPACE",
+            "sentence": "^\\QC#\nDotnet Core — an open-source, general-purpose development platform maintained by Microsoft and the .NET community.\\E$"
+        },
+        {
+            "rule": "IN_A_X_MANNER",
+            "sentence": "^\\QComponent Ecosystem — Components are designed to be used in a compositional way together with other components.\\E$"
+        },
+        {
+            "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+            "sentence": "^\\QProgram size (binary) — the size of a program in bytes.\\E$"
+        }
+    ]
+}

@@ -7,10 +7,9 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 - [Cultural Knowledge](#cultural-knowledge)
 - [Organizational Theory](#organizational-theory)
-- [Management and Planning](#management-and-planning)
-  - [Software Process Definitions](#software-process-definitions)
-  - [Software Process Frameworks/Models](#software-process-frameworksmodels)
-  - [Popular Software Processes](#popular-software-processes)
+- [Project Management and Planning](#project-management-and-planning)
+  - [Project Management Life Cycle (PMLC)](#project-management-life-cycle-pmlc)
+  - [Software Processes](#software-processes)
 - [Math](#math)
   - [Discrete Math](#discrete-math)
 - [Algorithms](#algorithms)
@@ -28,7 +27,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
     - [Data Types](#data-types)
     - [Variables](#variables)
     - [Keywords](#keywords)
-    - [Logical and Arthmetical Operators](#logical-and-arthmetical-operators)
+    - [Logical and Arithmetical Operators](#logical-and-arithmetical-operators)
     - [Conditions](#conditions)
     - [Loops](#loops)
     - [Numbers, Characters and Arrays](#numbers-characters-and-arrays)
@@ -48,8 +47,10 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [Development Tools](#development-tools)
   - [Integrated Development Environments (IDE's)](#integrated-development-environments-ides)
   - [Code Editors](#code-editors)
+  - [Game Development Tools](#game-development-tools)
   - [Git Tools](#git-tools)
   - [Database Tools](#database-tools)
+  - [DevOps Tools](#devops-tools)
   - [UML Tools](#uml-tools)
   - [Software Libraries](#software-libraries)
     - [Search Engines](#search-engines)
@@ -58,34 +59,42 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 # Organizational Theory
 
-# Management and Planning
+# Project Management and Planning
 
-## Software Process Definitions
+## Project Management Life Cycle (PMLC)
 
-- [What is a Software Process Framework/Model](https://www.geeksforgeeks.org/software-engineering-software-process-framework/)
-- [What is a Software Process?](https://en.wikipedia.org/wiki/Software_development_process)
+- Traditional
+  - Linear — a model with a linear process where a completed phase is never visited again.
+  - [Incremental](https://en.wikipedia.org/wiki/Incremental_build_model) — a model with a focus on implementing and testing incrementally.
+- Agile
+  - [Iterative](https://en.wikipedia.org/wiki/Iterative_design) — a model with a cyclic process where phases are repeated.
+  - Adaptive
+- Extreme
+- Hybrid
 
-## Software Process Frameworks/Models
+## Software Processes
 
-- Core Frameworks
-  - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) — a linear framework with strict phases.
-  - [Iterative](https://en.wikipedia.org/wiki/Iterative_design) — a framework based on a cyclic process of prototyping, testing, analyzing, and refining a product or process.
-  - [Incremental](https://en.wikipedia.org/wiki/Incremental_build_model) — a framework of where a product is designed, implemented and tested incrementally (a little more is added each time) until the product is finished.
-- Combined Frameworks
-  - [Agile](https://www.geeksforgeeks.org/software-engineering-agile-software-development/) — an iterative and incremental approach, that is flexible and adopts well to changes.
-  - [Prototyping](https://www.guru99.com/software-engineering-prototyping-model.html) — an iterative and incremental framework that puts great focus on evolutionary prototyping.
-  - [Spiral](https://en.wikipedia.org/wiki/Spiral_model) — a risk-driven combined linear-iterative framework, that adopts elements from the incremental, waterfall and evolutionary prototyping model.
-  - [Rapid application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) — an iterative and incremental framework that puts a larger focus on being practical rather than using valuable time on planning, design, and documentation.
-  - [Unified Process](https://en.wikipedia.org/wiki/Unified_Process) — an agile software development process framework, with a heavy focus on UML.
-  - [Evolutionary](https://www.geeksforgeeks.org/software-engineering-evolutionary-model/) — an iterative and incremental framework, relevant for larger projects.
-  - [Component-Based Software Engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering) — an iterative and incremental framework, that is adapted to Component-Based Programming.
+- Linear
+  - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) — a linear process with strict phases.
+  - [Kanban](https://www.atlassian.com/agile/kanban) — a lean method that relies heavily on the usage of a project board, and good communication.
+- Agile
+  - [SCRUM](https://www.scrumguides.org) — an agile process that works in concentrated chunks of time (sprints), and has well-defined roles for project members.
+  - Incremental
+  - Adaptive  
+- Extreme
+- Hybrid
 
-## Popular Software Processes
-
-- [SCRUM](https://www.scrumguides.org) — an agile process that works in concentrated chunks of time (sprints), and has well-defined roles for project members.
-- [Kanban](https://www.atlassian.com/agile/kanban) — an agile process that relies heavily on the usage of a project board, and good communication.
+- [Agile](https://www.geeksforgeeks.org/software-engineering-agile-software-development/) — an iterative and incremental approach, that is flexible and adopts well to changes.
 - [Extreme Programming](http://www.extremeprogramming.org) — an agile process that emphasized pair programming and customer satisfaction.
-- [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) — a specific implementation of the Unified Process.
+- [Unified Process](https://en.wikipedia.org/wiki/Unified_Process) — an agile software development process framework, with a heavy focus on UML.
+  - [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) — a specific implementation of the Unified Process.
+- [Prototyping](https://www.guru99.com/software-engineering-prototyping-model.html) — an iterative and incremental framework that puts great focus on evolutionary prototyping.
+- [Spiral](https://en.wikipedia.org/wiki/Spiral_model) — a risk-driven combined linear-iterative framework, that adopts elements from the incremental, waterfall and evolutionary prototyping model.
+- [Rapid application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) — an iterative and incremental framework that puts a larger focus on being practical rather than using valuable time on planning, design, and documentation.
+- [Evolutionary](https://www.geeksforgeeks.org/software-engineering-evolutionary-model/) — an iterative and incremental framework, relevant for larger projects.
+- [Component-Based Software Engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering) — an iterative and incremental framework, that is adapted to Component-Based Programming.
+
+##
 
 # Math
 
@@ -188,7 +197,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 ### Keywords
 
-### Logical and Arthmetical Operators
+### Logical and Arithmetical Operators
 
 ### Conditions
 
@@ -291,6 +300,12 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [VSCode](https://code.visualstudio.com) — A lightweight code-editor that can become a multipurpose IDE with the use of extensions — Owned by Microsoft
 - [Atom](https://atom.io) — A lightweight code-editor that can become a multipurpose IDE with the use of extensions — Owned by GitHub, that is owned by Microsoft (questionable support).
 
+## Game Development Tools
+
+- [Unity](https://unity.com)
+- [Unreal Engine](https://www.unrealengine.com/en-US/)
+- [GameMaker Studio](https://www.yoyogames.com/gamemaker)
+
 ## Git Tools
 
 - [Gitkraken](https://www.gitkraken.com) — A super useful Git Client (best on market in my own opinion)
@@ -299,6 +314,10 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 ## Database Tools
 
 - [DBeaver](https://dbeaver.io) — Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases.
+
+## DevOps Tools
+
+- [Docker](https://www.docker.com)
 
 ## UML Tools
 

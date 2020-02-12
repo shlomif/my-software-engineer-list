@@ -8,8 +8,8 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [Cultural Knowledge](#cultural-knowledge)
 - [Organizational Theory](#organizational-theory)
 - [Project Management and Planning](#project-management-and-planning)
-  - [Process Groups/Phases and Deliverables](#process-groupsphases-and-deliverables)
-  - [Project Management Life Cycle (PMLC)](#project-management-life-cycle-pmlc)
+  - [Process Groups and Deliverables](#process-groups-and-deliverables)
+  - [Project Management Life Cycles (PMLC)](#project-management-life-cycles-pmlc)
   - [Software Processes](#software-processes)
 - [Math](#math)
   - [Discrete Math](#discrete-math)
@@ -62,31 +62,31 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 # Project Management and Planning
 
-## Process Groups/Phases and Deliverables
+## Process Groups and Deliverables
 
-- Initiation
+- [Initiation](https://en.wikipedia.org/wiki/Project_management#Initiating)
   - [Project Scope](https://en.wikipedia.org/wiki/Scope_(project_management)) — the scope of the project, including the following (1) Project objective, (2) Deliverables, (3) Milestones, (4) Technical requirements, (5) Limits and exclusions and (6) Reviews with customer.
   - [Product Breakdown Structure](https://en.wikipedia.org/wiki/Product_breakdown_structure) — a breakdown structure of the product that precedes the work breakdown structure.
   - [Work Breakdown Structure](https://en.wikipedia.org/wiki/Work_breakdown_structure) — a deliverable-oriented breakdown of a project into smaller components.
   - Process Breakdown Structure — a breakdown structure of the process.
-  - [Responsibility Assignment Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) — a chart that describes the participation by various roles in completing tasks or deliverables for a project or business process.
-  - [Tentative Project Schedule](https://en.wikipedia.org/wiki/Project_plan)
-  - [Requirements Analysis](https://en.wikipedia.org/wiki/Requirements_analysis)
-  - [Financial Analysis](https://en.wikipedia.org/wiki/Financial_analysis)
+  - [Responsibility Assignment Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) — a chart that describes the participation by various roles in completing tasks or deliverables.
+  - [Tentative Project Schedule](https://en.wikipedia.org/wiki/Project_plan) — a tentative plan that shows when project objectives are to be achieved fx. a [Gannt Chart](https://en.wikipedia.org/wiki/Gantt_chart)
+  - [Requirements Analysis](https://en.wikipedia.org/wiki/Requirements_analysis) — a process of (1) Eliciting Requirements, (2) Analyzing Requirements and (3) Recording Requirements.
+  - [Financial Analysis](https://en.wikipedia.org/wiki/Financial_analysis) — an assessment of the viability, stability, and profitability of a business, sub-business or project.
   - [Stakeholder Analysis](https://en.wikipedia.org/wiki/Stakeholder_analysis)
   - [Project Charter](https://en.wikipedia.org/wiki/Project_charter)
   - [SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
-- Planning
-- Production or execution
-- Monitoring and controlling
-- Closing
+- [Planning](https://en.wikipedia.org/wiki/Project_management#Planning)
+- [Production or execution](https://en.wikipedia.org/wiki/Project_management#Executing)
+- [Monitoring and controlling](https://en.wikipedia.org/wiki/Project_management#Monitoring_and_controlling)
+- [Closing](https://en.wikipedia.org/wiki/Project_management#Closing)
 
-## Project Management Life Cycle (PMLC)
+## Project Management Life Cycles (PMLC)
 
-- Traditional
+- [Traditional](https://www.cs.uct.ac.za/mit_notes/human_computer_interaction/htmls/ch03s04.html)
   - Linear — a model with a linear process where a completed phase is never visited again.
   - [Incremental](https://en.wikipedia.org/wiki/Incremental_build_model) — a model with a focus on implementing and testing incrementally.
-- Agile
+- [Agile](https://www.geeksforgeeks.org/software-engineering-agile-software-development/)
   - [Iterative](https://en.wikipedia.org/wiki/Iterative_design) — a model with a cyclic process where phases are repeated.
   - Adaptive
 - Extreme
@@ -94,27 +94,22 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 ## Software Processes
 
-- Linear
-  - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) — a linear process with strict phases.
-  - [Kanban](https://www.atlassian.com/agile/kanban) — a lean method that relies heavily on the usage of a project board, and good communication.
-- Agile
-  - [SCRUM](https://www.scrumguides.org) — an agile process that works in concentrated chunks of time (sprints), and has well-defined roles for project members.
-  - Incremental
-  - Adaptive  
-- Extreme
-- Hybrid
+Most Software Processes are more or less Hybrids, so to avoid disagreement, the processes will be represented as is.
 
-- [Agile](https://www.geeksforgeeks.org/software-engineering-agile-software-development/) — an iterative and incremental approach, that is flexible and adopts well to changes.
+- [Kanban](https://www.atlassian.com/agile/kanban) — a lean method that relies heavily on the usage of a project board, and good communication.
+- [SCRUM](https://www.scrumguides.org) — an agile process that works in concentrated chunks of time (sprints), and has well-defined roles for project members.
+- [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) — a linear process with strict phases.
+- Rapid Development Waterfall
 - [Extreme Programming](http://www.extremeprogramming.org) — an agile process that emphasized pair programming and customer satisfaction.
-- [Unified Process](https://en.wikipedia.org/wiki/Unified_Process) — an agile software development process framework, with a heavy focus on UML.
+- ScrumFall
+- [V-Model](https://en.wikipedia.org/wiki/V-Model_(software_development)) — a hybrid considered an extension of the waterfall model, that has more blurry phases.
+- [Spiral](https://en.wikipedia.org/wiki/Spiral_model) — a risk-driven combined linear-iterative framework, that adopts elements from the incremental, waterfall and evolutionary prototyping model.
+- [Evolutionary](https://www.geeksforgeeks.org/software-engineering-evolutionary-model/) — an iterative and incremental framework, relevant for larger projects.
+- [Unified Process](https://en.wikipedia.org/wiki/Unified_Process) — an software development process framework, with a heavy focus on UML.
   - [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) — a specific implementation of the Unified Process.
 - [Prototyping](https://www.guru99.com/software-engineering-prototyping-model.html) — an iterative and incremental framework that puts great focus on evolutionary prototyping.
-- [Spiral](https://en.wikipedia.org/wiki/Spiral_model) — a risk-driven combined linear-iterative framework, that adopts elements from the incremental, waterfall and evolutionary prototyping model.
 - [Rapid application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) — an iterative and incremental framework that puts a larger focus on being practical rather than using valuable time on planning, design, and documentation.
-- [Evolutionary](https://www.geeksforgeeks.org/software-engineering-evolutionary-model/) — an iterative and incremental framework, relevant for larger projects.
 - [Component-Based Software Engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering) — an iterative and incremental framework, that is adapted to Component-Based Programming.
-
-##
 
 # Math
 

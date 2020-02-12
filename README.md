@@ -10,8 +10,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Levels of Culture](#levels-of-culture)
   - [Cultural Frameworks](#cultural-frameworks)
   - [Cultural Dimensions (Collected from the Cultural Frameworks)](#cultural-dimensions-collected-from-the-cultural-frameworks)
-  - [Cultural Spheres](#cultural-spheres)
-    - [Other Cultural Spheres](#other-cultural-spheres)
+  - [Cultural Spheres of Influence](#cultural-spheres-of-influence)
   - [Dimensions of Corporate Culture](#dimensions-of-corporate-culture)
   - [Scools of Management](#scools-of-management)
   - [Cultural Strategy](#cultural-strategy)
@@ -86,18 +85,16 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 ## Definitions of Culture
 
 - Kluckhohn and Strodtbeck — ‘(...) culture might be described as shared assumptions, values and behaviors that distinguish one group from another and are passed on from one generation to the next.’
+- [Collection of Definitions](https://www.igi-global.com/dictionary/rationale-and-risk-considerations/6442)
 
 ## Levels of Culture
 
-- Artifacts and Behavior
-  - Architecture and design
-  - Greeting Rituals
-  - Forms of Address
-  - Making Contact
-  - Dress Codes
-  - Written versus Verbal Contracts
-- Beliefs and Values
-- Basic Assumptions
+- [National/Societal Culture](https://www.culturalorientations.com/86/)
+- [Organizational Culture](https://www.culturalorientations.com/87/)
+- [Social Identity Group Culture](https://www.culturalorientations.com/Our-Approach/Six-Levels-of-Culture/Social-Identity-Group-Culture/88/)
+- [Functional Culture](https://www.culturalorientations.com/89/)
+- [Team Culture](https://www.culturalorientations.com/90/)
+- [Individual Culture](https://www.culturalorientations.com/91/)
 
 ## Cultural Frameworks
 
@@ -142,23 +139,20 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - Monochronic (linear) vs Polychronic (cyclical)
   - Future vs Past
 
-## Cultural Spheres
+## Cultural Spheres of Influence
 
-- National Cultures
+Definition:
+
+- [What is a Sphere of Influence?](https://en.wikipedia.org/wiki/Sphere_of_influence)
+
+List:
+
+- [National Cultures](https://www.igi-global.com/dictionary/a-tale-of-different-realities/19905)
 - Professional Cultures
 - Regional Cultures
 - Industry Cultures
 - Functional Cultures
 - Corporate Cultures
-
-### Other Cultural Spheres
-
-- Global Culture
-- Social Culture
-- Religious Culture
-- Socio-Economic Culture,
-- Gender Culture
-- ...
 
 ## Dimensions of Corporate Culture
 
@@ -256,6 +250,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 
 - The Johari Window
 - Stereotypes
+- [Hall's Cultural Iceberg Model](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/125/iceberg_model_3.pdf)
 
 # Organizational Theory
 

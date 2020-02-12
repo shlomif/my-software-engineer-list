@@ -240,16 +240,17 @@ List:
 
 ## Stages of Moral Development
 
-- Stage 1 - the Amoral Organisation
-- Stage 2 - the Legalistic Organisation
-- Stage 3 - the Eesponsive Organisation
-- Stage 4 - the Emerging Ethical Organisation
-- Stage 5 - the Ethical Organisation
+- [What are the Stages of Moral Development?](https://worldofwork.io/2019/08/5-stages-of-corporate-ethical-development/)
+  - Stage 1 - the Amoral Organisation
+  - Stage 2 - the Legalistic Organisation
+  - Stage 3 - the Responsive Organisation
+  - Stage 4 - the Emerging Ethical Organisation
+  - Stage 5 - the Ethical Organisation
   
 ## Analytic Tools
 
-- The Johari Window
-- Stereotypes
+- [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
+- [Stereotypes](https://en.wikipedia.org/wiki/Stereotype)
 - [Hall's Cultural Iceberg Model](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/125/iceberg_model_3.pdf)
 
 # Organizational Theory

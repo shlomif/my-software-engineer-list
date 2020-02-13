@@ -9,7 +9,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Definitions of Culture](#definitions-of-culture)
   - [Levels of Culture](#levels-of-culture)
   - [Cultural Frameworks](#cultural-frameworks)
-  - [Cultural Dimensions (Collected from the Cultural Frameworks)](#cultural-dimensions-collected-from-the-cultural-frameworks)
+  - [Cultural Dimensions](#cultural-dimensions)
   - [Cultural Spheres of Influence](#cultural-spheres-of-influence)
   - [Dimensions of Corporate Culture](#dimensions-of-corporate-culture)
   - [Scools of Management](#scools-of-management)
@@ -21,7 +21,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Global Leadership Competencies](#global-leadership-competencies)
   - [Types of Multicultural Individuals](#types-of-multicultural-individuals)
   - [Multicultural Teams](#multicultural-teams)
-    - [Strategies for Manging Multicultural Teams](#strategies-for-manging-multicultural-teams)
+    - [Strategies for Managing Multicultural Teams](#strategies-for-managing-multicultural-teams)
   - [Corporate Social Responsibility (CSR) Strategies](#corporate-social-responsibility-csr-strategies)
   - [Stages of Moral Development](#stages-of-moral-development)
   - [Analytic Tools](#analytic-tools)
@@ -33,6 +33,8 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - [Math](#math)
   - [Discrete Math](#discrete-math)
 - [Algorithms](#algorithms)
+  - [Algorithm Metrics](#algorithm-metrics)
+  - [Asymptotic Notations](#asymptotic-notations)
   - [Search Algorithms](#search-algorithms)
   - [Sorting Algorithms](#sorting-algorithms)
 - [Networking](#networking)
@@ -108,7 +110,7 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
 - GLOBE Project
 - Hall
 
-## Cultural Dimensions (Collected from the Cultural Frameworks)
+## Cultural Dimensions
 
 - Natural Environment
   - Control over nature vs Fatalism
@@ -218,7 +220,7 @@ List:
 - Diversity
 - Dispersion
 
-### Strategies for Manging Multicultural Teams
+### Strategies for Managing Multicultural Teams
 
 - Task Strategies
   - Creating Purpose
@@ -240,7 +242,7 @@ List:
 
 ## Stages of Moral Development
 
-- [What are the Stages of Moral Development?](https://worldofwork.io/2019/08/5-stages-of-corporate-ethical-development/)
+- [Stages of Moral Development?](https://worldofwork.io/2019/08/5-stages-of-corporate-ethical-development/)
   - Stage 1 - the Amoral Organisation
   - Stage 2 - the Legalistic Organisation
   - Stage 3 - the Responsive Organisation
@@ -315,6 +317,19 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 # Algorithms
 
 - [Geeksforgeeks: Fundamentals of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) — An online website that covers all the fundamentals of understanding algorithms.
+
+## Algorithm Metrics
+
+- [Brodal Cycles](https://nicklas.xyz/dm507f20/uge6/uge6.html) — a metric that can help one analyse how many steps it takes to solve an exchange puzzle.
+- [Inversions](https://en.wikipedia.org/wiki/Inversion_(discrete_mathematics))
+
+## Asymptotic Notations
+
+- [Big Oh Notation, Ο](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
+- [Little Oh Notation, o](https://www.tutorialspoint.com/little-oh-notation-o)
+- [Omega Notation, Ω](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
+- [Little Omega Notation, ω](https://www2.cs.arizona.edu/classes/cs345/summer14/files/bigO.pdf)
+- [Theta Notation, θ](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
 
 ## Search Algorithms
 

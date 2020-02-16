@@ -69,11 +69,11 @@ List:
 - Adler — missing
 - Maznewski — missing
 - [Hofstedes Dimension of Culture](https://www.hofstede-insights.com/models/national-culture/) — six dimensions that distinguish cultures.
-- [The Lewis Model](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) —  a model that divides culture into three approximate categories.
-- [Trompenaars Seven Dimensions of Culture](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) — a model which identifies culture in seven dimensions.
+- [The Lewis Model](https://www.redtangerine.org/scrum-in-culture-types-study/the-lewis-model/) —  a model that divides culture into three approximate categories.
+- [Trompenaars Seven Dimensions of Culture](https://www.mindtools.com/pages/article/seven-dimensions.htm) — a model which identifies culture in seven dimensions.
 - Kluckhohn and Strodtbeck — ‘(...) culture might be described as shared assumptions, values and behaviors that distinguish one group from another and are passed on from one generation to the next.’
-- [Schwartz Culture Model](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) — ten basic personal values that are recognized across cultures.
-- [The Five-Factor Model (FFM)](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) — a model built on the “natural” system used by members of a culture to communicate and understand one another.
+- [Schwartz Culture Model](https://i2s.anu.edu.au/resources/schwartz-theory-basic-values) — ten basic personal values that are recognized across cultures.
+- [The Five-Factor Model (FFM)](https://en.wikipedia.org/wiki/Big_Five_personality_traits) — a model built on the “natural” system used by members of a culture to communicate and understand one another.
 - Schein — “A pattern of shared basic assumptions that a group has learned as it solved its problems of external adaptation and internal integration, that has worked well enough to be considered valued, and therefore, to be taught to new members as the correct way to perceive, think, and feel in relation to those problems.”
 - [GLOBE Project](https://globeproject.com/results/clusters/anglo?menu=list#country) — a huge project that aims to elicit the cultures in the world. Is known for its clusters of countries with closely related cultures.
 - Hall — missing

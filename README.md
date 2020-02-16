@@ -346,14 +346,17 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 
 ## Search Algorithms
 
-- Sequential Search Algorithms
-  - [Linear Search](https://www.geeksforgeeks.org/linear-search/)
-- Interval Search Algorithms
-  - [Binary Search](https://www.geeksforgeeks.org/binary-search/)
-  - [Jump Search](https://www.geeksforgeeks.org/jump-search/)
-  - [Interpolation Search](https://www.geeksforgeeks.org/interpolation-search/)
-  - [Exponential Search](https://www.geeksforgeeks.org/exponential-search/)
-  - [Ternary Search](https://www.geeksforgeeks.org/ternary-search/)
+Sequential Search Algorithms:
+
+- [Linear Search](https://www.geeksforgeeks.org/linear-search/)
+
+Interval Search Algorithms:
+
+- [Binary Search](https://www.geeksforgeeks.org/binary-search/)
+- [Jump Search](https://www.geeksforgeeks.org/jump-search/)
+- [Interpolation Search](https://www.geeksforgeeks.org/interpolation-search/)
+- [Exponential Search](https://www.geeksforgeeks.org/exponential-search/)
+- [Ternary Search](https://www.geeksforgeeks.org/ternary-search/)
 
 ## Sorting Algorithms
 

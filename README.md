@@ -570,8 +570,8 @@ Python IDE's:
 
 ## Code Editors
 
-- [VSCode](https://code.visualstudio.com) — An electron based code-editor that can become a multipurpose IDE with the use of extensions — Originate from Microsoft.
-- [Atom](https://atom.io) — An electron based code-editor that can become a multipurpose IDE with the use of extensions — Originate from GitHub, who are acquisitioned by Microsoft (questionable support).
+- [VSCode](https://code.visualstudio.com) — An electron-based code-editor that can become a multipurpose IDE with the use of extensions. Originated by Microsoft and open source.
+- [Atom](https://atom.io) — An electron-based code-editor that can become a multipurpose IDE with the use of extensions. Open source software that was originated by GitHub, who were acquired by Microsoft (so it has questionable support).
 
 ## Game Development Tools
 

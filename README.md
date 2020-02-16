@@ -16,6 +16,11 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [Stages of Moral Development](#stages-of-moral-development)
   - [Analytic Tools](#analytic-tools)
 - [Organizational Theory](#organizational-theory)
+  - [Organizational Structures](#organizational-structures)
+  - [Organizational Cultures](#organizational-cultures)
+  - [Organizational Stakeholders](#organizational-stakeholders)
+  - [Organizational Design](#organizational-design)
+  - [Organizational Change](#organizational-change)
 - [Project Management and Planning](#project-management-and-planning)
   - [Project Life Cycles](#project-life-cycles)
   - [Project Management Life Cycles (PMLC)](#project-management-life-cycles-pmlc)
@@ -66,17 +71,18 @@ Definition:
 
 List:
 
-- Adler — missing
-- Maznewski — missing
+- [Adler's Cultural Synergy](https://en.wikipedia.org/wiki/Cultural_synergy) — an attempt to bring two or more cultures together to form an organization or environment that is based on combined strengths, concepts and skills.
+- [Maznevski](http://iegd.org/spanish800/adjuntos/distefano5.pdf) —  a theoretically-grounded framework of cultural dimensions conceptualized and operationalized at the individual level of analysis.
 - [Hofstedes Dimension of Culture](https://www.hofstede-insights.com/models/national-culture/) — six dimensions that distinguish cultures.
 - [The Lewis Model](https://www.redtangerine.org/scrum-in-culture-types-study/the-lewis-model/) —  a model that divides culture into three approximate categories.
 - [Trompenaars Seven Dimensions of Culture](https://www.mindtools.com/pages/article/seven-dimensions.htm) — a model which identifies culture in seven dimensions.
 - Kluckhohn and Strodtbeck — ‘(...) culture might be described as shared assumptions, values and behaviors that distinguish one group from another and are passed on from one generation to the next.’
 - [Schwartz Culture Model](https://i2s.anu.edu.au/resources/schwartz-theory-basic-values) — ten basic personal values that are recognized across cultures.
 - [The Five-Factor Model (FFM)](https://en.wikipedia.org/wiki/Big_Five_personality_traits) — a model built on the “natural” system used by members of a culture to communicate and understand one another.
-- Schein — “A pattern of shared basic assumptions that a group has learned as it solved its problems of external adaptation and internal integration, that has worked well enough to be considered valued, and therefore, to be taught to new members as the correct way to perceive, think, and feel in relation to those problems.”
+- [Scheins View on Culture](https://www.artsfwd.org/3-levels-of-organizational-culture/) — “A pattern of shared basic assumptions..."
 - [GLOBE Project](https://globeproject.com/results/clusters/anglo?menu=list#country) — a huge project that aims to elicit the cultures in the world. Is known for its clusters of countries with closely related cultures.
-- Hall — missing
+- [Hall's High Context and Low Context Cultures](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures) — a measure of how explicit the messages exchanged in a culture are, and how important the context is in communication.
+- [Hall's Cultural Iceberg Model](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/125/iceberg_model_3.pdf)
 
 Shared Frameworks:
 
@@ -220,9 +226,20 @@ Some of these cultures interact in ways that influence eachother as proposed in 
 
 - [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 - [Stereotypes](https://en.wikipedia.org/wiki/Stereotype)
-- [Hall's Cultural Iceberg Model](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/125/iceberg_model_3.pdf)
 
 # Organizational Theory
+
+## Organizational Structures
+
+## Organizational Cultures
+
+## Organizational Stakeholders
+
+## Organizational Design
+
+## Organizational Change
+
+##
 
 # Project Management and Planning
 

@@ -6,32 +6,22 @@ This is a list of topics, theory and practical tools I find useful in my career 
 Feel free to contribute with Pull Requests, or fork this project to create your personalized list.
 
 - [Cultural Knowledge](#cultural-knowledge)
-  - [Definitions of Culture](#definitions-of-culture)
-  - [Levels of Culture](#levels-of-culture)
   - [Cultural Frameworks](#cultural-frameworks)
-  - [Cultural Dimensions](#cultural-dimensions)
-  - [Cultural Spheres of Influence](#cultural-spheres-of-influence)
-  - [Dimensions of Corporate Culture](#dimensions-of-corporate-culture)
-  - [Scools of Management](#scools-of-management)
+  - [Levels of Culture](#levels-of-culture)
+  - [Schools of Management](#schools-of-management)
   - [Cultural Strategy](#cultural-strategy)
-    - [Strategic Processes](#strategic-processes)
-    - [Strategic Profiles](#strategic-profiles)
-    - [Strategic Content](#strategic-content)
-    - [International Strategies](#international-strategies)
-  - [Global Leadership Competencies](#global-leadership-competencies)
-  - [Types of Multicultural Individuals](#types-of-multicultural-individuals)
   - [Multicultural Teams](#multicultural-teams)
-    - [Strategies for Managing Multicultural Teams](#strategies-for-managing-multicultural-teams)
+  - [Global Leadership Competencies](#global-leadership-competencies)
   - [Corporate Social Responsibility (CSR) Strategies](#corporate-social-responsibility-csr-strategies)
   - [Stages of Moral Development](#stages-of-moral-development)
   - [Analytic Tools](#analytic-tools)
 - [Organizational Theory](#organizational-theory)
 - [Project Management and Planning](#project-management-and-planning)
-  - [Process Groups and Deliverables](#process-groups-and-deliverables)
+  - [Project Life Cycles](#project-life-cycles)
   - [Project Management Life Cycles (PMLC)](#project-management-life-cycles-pmlc)
   - [Software Processes](#software-processes)
-- [Math](#math)
-  - [Discrete Math](#discrete-math)
+  - [Leadership Approaches](#leadership-approaches)
+- [Discrete Math](#discrete-math)
 - [Algorithms](#algorithms)
   - [Algorithm Metrics](#algorithm-metrics)
   - [Asymptotic Notations](#asymptotic-notations)
@@ -51,23 +41,8 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [API Design](#api-design)
 - [Computer Programming](#computer-programming)
   - [Programming Basics](#programming-basics)
-    - [Data Types](#data-types)
-    - [Variables](#variables)
-    - [Keywords](#keywords)
-    - [Logical and Arithmetical Operators](#logical-and-arithmetical-operators)
-    - [Conditions](#conditions)
-    - [Loops](#loops)
-    - [Numbers, Characters and Arrays](#numbers-characters-and-arrays)
-    - [Functions](#functions)
-    - [Input and Output Operations](#input-and-output-operations)
   - [Object-Oriented Programming](#object-oriented-programming)
-    - [Objects and Classes](#objects-and-classes)
-    - [The Three Pillars of Object-Oriented Programming](#the-three-pillars-of-object-oriented-programming)
-    - [SOLID Principles](#solid-principles)
   - [Component-Oriented Programming](#component-oriented-programming)
-    - [Component Characteristics](#component-characteristics)
-    - [Defining Software Components](#defining-software-components)
-    - [Elements of a Software Component](#elements-of-a-software-component)
   - [Data-Oriented Programming](#data-oriented-programming)
 - [Programming Languages and Frameworks](#programming-languages-and-frameworks)
   - [Multi Purpose Languages](#multi-purpose-languages)
@@ -80,37 +55,35 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - [DevOps Tools](#devops-tools)
   - [UML Tools](#uml-tools)
   - [Software Libraries](#software-libraries)
-    - [Search Engines](#search-engines)
 
 # Cultural Knowledge
 
-## Definitions of Culture
-
-- Kluckhohn and Strodtbeck — ‘(...) culture might be described as shared assumptions, values and behaviors that distinguish one group from another and are passed on from one generation to the next.’
-- [Collection of Definitions](https://www.igi-global.com/dictionary/rationale-and-risk-considerations/6442)
-
-## Levels of Culture
-
-- [National/Societal Culture](https://www.culturalorientations.com/86/)
-- [Organizational Culture](https://www.culturalorientations.com/87/)
-- [Social Identity Group Culture](https://www.culturalorientations.com/Our-Approach/Six-Levels-of-Culture/Social-Identity-Group-Culture/88/)
-- [Functional Culture](https://www.culturalorientations.com/89/)
-- [Team Culture](https://www.culturalorientations.com/90/)
-- [Individual Culture](https://www.culturalorientations.com/91/)
-
 ## Cultural Frameworks
 
-- Adler
-- Maznewski
-- Hostede
-- Trompenaars
-- Kluckholm and Strodtbeck
-- Schwartz
-- Schein
-- GLOBE Project
-- Hall
+Definition:
 
-## Cultural Dimensions
+- [What is a Cultural Framework?](https://en.wikipedia.org/wiki/Cultural_framework)
+
+List:
+
+- Adler — missing
+- Maznewski — missing
+- [Hofstedes Dimension of Culture](https://www.hofstede-insights.com/models/national-culture/) — six dimensions that distinguish cultures.
+- [The Lewis Model](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) —  a model that divides culture into three approximate categories.
+- [Trompenaars Seven Dimensions of Culture](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) — a model which identifies culture in seven dimensions.
+- Kluckhohn and Strodtbeck — ‘(...) culture might be described as shared assumptions, values and behaviors that distinguish one group from another and are passed on from one generation to the next.’
+- [Schwartz Culture Model](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) — ten basic personal values that are recognized across cultures.
+- [The Five-Factor Model (FFM)](https://mike-montagne.com/cultural-frameworks-the-key-to-great-design/) — a model built on the “natural” system used by members of a culture to communicate and understand one another.
+- Schein — “A pattern of shared basic assumptions that a group has learned as it solved its problems of external adaptation and internal integration, that has worked well enough to be considered valued, and therefore, to be taught to new members as the correct way to perceive, think, and feel in relation to those problems.”
+- [GLOBE Project](https://globeproject.com/results/clusters/anglo?menu=list#country) — a huge project that aims to elicit the cultures in the world. Is known for its clusters of countries with closely related cultures.
+- Hall — missing
+
+Shared Frameworks:
+
+- [Dimensions of Corporate Culture](https://www.hofstede-insights.com/models/organisational-culture/) - six dimensions relevant in regard to corporate cultures.
+- Common Cultural Dimensions (Adapted from Andre Laurent) - missing link
+<!-- omit in toc -->
+### Common Cultural Dimensions (Adapted from Andre Laurent)
 
 - Natural Environment
   - Control over nature vs Fatalism
@@ -141,51 +114,42 @@ Feel free to contribute with Pull Requests, or fork this project to create your 
   - Monochronic (linear) vs Polychronic (cyclical)
   - Future vs Past
 
-## Cultural Spheres of Influence
+## Levels of Culture
 
-Definition:
+- [National/Societal Culture](https://www.culturalorientations.com/86/)
+- [Organizational Culture](https://www.culturalorientations.com/87/)
+- [Social Identity Group Culture](https://www.culturalorientations.com/Our-Approach/Six-Levels-of-Culture/Social-Identity-Group-Culture/88/)
+- [Functional Culture](https://www.culturalorientations.com/89/)
+- [Team Culture](https://www.culturalorientations.com/90/)
+- [Individual Culture](https://www.culturalorientations.com/91/)
 
-- [What is a Sphere of Influence?](https://en.wikipedia.org/wiki/Sphere_of_influence)
+Some of these cultures interact in ways that influence eachother as proposed in the following model:
 
-List:
+- [Cultural Spheres of Influence](https://www.researchgate.net/figure/Interacting-cultural-spheres-of-influence-Source-Santos-in-Schneider-Barsoux_fig2_200149815) - a model of the cultural spheres that interact and influence eachother.
 
-- [National Cultures](https://www.igi-global.com/dictionary/a-tale-of-different-realities/19905)
-- Professional Cultures
-- Regional Cultures
-- Industry Cultures
-- Functional Cultures
-- Corporate Cultures
+## Schools of Management
 
-## Dimensions of Corporate Culture
-
-- Power vs Hierachy
-- People vs Clan
-- Task vs Achievement
-- Role vs Structure
-- Stability vs Control
-- Flexibility vs Adaptability
-- Internal vs External
-
-## Scools of Management
-
-- Scientific Management
-- Human Relations
-- Human Resources
+- [Scientific Management](https://en.wikipedia.org/wiki/Scientific_management) — a theory of management that analyzes and synthesizes workflows. Its main objective is improving economic efficiency, especially labor productivity.
+- [Human Relations](https://www.merriam-webster.com/dictionary/human%20relations) — a theory of management that focuses on the human relations and how to affect these in a way that improves work efficiency.
+- [Human Resources](https://en.wikipedia.org/wiki/Human_resources) — a theory of management where humans are seen as resources.
 
 ## Cultural Strategy
 
 - Interaction between Strategic Process, Strategic Profile and Strategic Content
 
+<!-- omit in toc -->
 ### Strategic Processes
 
-- Controlling Model
-- Adapting Model
+- [Controlling Model](https://www.business-online-learning.com/control-model.html)
+- Adapting Model — Missing
 
+<!-- omit in toc -->
 ### Strategic Profiles
 
-- Defender
-- Prospector
+- [Defender](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095706827)
+- [Prospector](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100350266)
 
+<!-- omit in toc -->
 ### Strategic Content
 
 - Cost reduction vs Growth
@@ -193,6 +157,7 @@ List:
 - Diversification
 - Internationalisation
 
+<!-- omit in toc -->
 ### International Strategies
 
 - Global Strategy
@@ -200,26 +165,20 @@ List:
 - International Strategy
 - Multi-domestic Strategy
 
-## Global Leadership Competencies
+## Multicultural Teams
 
-- System Skills
-- Interpersonal Skills
-- Attitudes & Orientations Global Mindset
-- Threshold Traits
-- Global Knowledge
+- Diversity
+- Dispersion
 
-## Types of Multicultural Individuals
+<!-- omit in toc -->
+### Types of Multicultural Individuals
 
 - Marginals
 - Seperated
 - Integrated
 - Cosmopolitans
 
-## Multicultural Teams
-
-- Diversity
-- Dispersion
-
+<!-- omit in toc -->
 ### Strategies for Managing Multicultural Teams
 
 - Task Strategies
@@ -233,6 +192,14 @@ List:
   - Eliciting Participation
   - Resolving Conflict
   - Evaluating Performance
+
+## Global Leadership Competencies
+
+- System Skills
+- Interpersonal Skills
+- Attitudes & Orientations Global Mindset
+- Threshold Traits
+- Global Knowledge
 
 ## Corporate Social Responsibility (CSR) Strategies
 
@@ -259,24 +226,51 @@ List:
 
 # Project Management and Planning
 
-## Process Groups and Deliverables
+## Project Life Cycles
 
-- [Initiation](https://en.wikipedia.org/wiki/Project_management#Initiating)
-  - [Project Scope](https://en.wikipedia.org/wiki/Scope_(project_management)) — the scope of the project, including the following (1) Project objective, (2) Deliverables, (3) Milestones, (4) Technical requirements, (5) Limits and exclusions and (6) Reviews with customer.
-  - [Product Breakdown Structure](https://en.wikipedia.org/wiki/Product_breakdown_structure) — a breakdown structure of the product that precedes the work breakdown structure.
-  - [Work Breakdown Structure](https://en.wikipedia.org/wiki/Work_breakdown_structure) — a deliverable-oriented breakdown of a project into smaller components.
-  - Process Breakdown Structure — a breakdown structure of the process.
-  - [Responsibility Assignment Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) — a chart that describes the participation by various roles in completing tasks or deliverables.
-  - [Tentative Project Schedule](https://en.wikipedia.org/wiki/Project_plan) — a tentative plan that shows when project objectives are to be achieved fx. a [Gannt Chart](https://en.wikipedia.org/wiki/Gantt_chart)
-  - [Requirements Analysis](https://en.wikipedia.org/wiki/Requirements_analysis) — a process of (1) Eliciting Requirements, (2) Analyzing Requirements and (3) Recording Requirements.
-  - [Financial Analysis](https://en.wikipedia.org/wiki/Financial_analysis) — an assessment of the viability, stability, and profitability of a business, sub-business or project.
-  - [Stakeholder Analysis](https://en.wikipedia.org/wiki/Stakeholder_analysis)
-  - [Project Charter](https://en.wikipedia.org/wiki/Project_charter)
-  - [SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+- [Defining](https://en.wikipedia.org/wiki/Project_management#Initiating)
 - [Planning](https://en.wikipedia.org/wiki/Project_management#Planning)
-- [Production or execution](https://en.wikipedia.org/wiki/Project_management#Executing)
-- [Monitoring and controlling](https://en.wikipedia.org/wiki/Project_management#Monitoring_and_controlling)
+- [Executing](https://en.wikipedia.org/wiki/Project_management#Executing)
 - [Closing](https://en.wikipedia.org/wiki/Project_management#Closing)
+
+<!-- omit in toc -->
+### The Defining Life Cycle
+
+**Tools:**
+
+- [Requirements Analysis](https://en.wikipedia.org/wiki/Requirements_analysis) — a process of (1) Eliciting Requirements, (2) Analyzing Requirements and (3) Recording Requirements.
+  - Requirements Workshops
+- [Financial Analysis](https://en.wikipedia.org/wiki/Financial_analysis) — an assessment of the viability, stability, and profitability of a business, sub-business or project.
+- [Stakeholder Analysis](https://en.wikipedia.org/wiki/Stakeholder_analysis)
+- The Scope Triangle
+- Conditions of Satisfaction
+- Brainstorming
+- Interviews
+- Project Scoping Meeting
+- Facilitated Group Sessions
+- Prototyping
+
+**Deliverables:**
+
+- Project Overview Statement
+- Breakdown Structures
+  - Requirement Breakdown
+  - [Product Breakdown Structure](https://en.wikipedia.org/wiki/Product_breakdown_structure) — a breakdown structure of the product that precedes the work breakdown structure.
+  - [Work Breakdown Structure](https://en.wikipedia.org/wiki/Work_breakdown_structure) — a deliverable-oriented breakdown of a project into smaller components.  
+  - Process Breakdown Structure — a breakdown structure of the process.
+- [Responsibility Assignment Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) — a chart that describes the participation by various roles in completing tasks or deliverables.
+- [Tentative Project Schedule](https://en.wikipedia.org/wiki/Project_plan) — a tentative plan that shows when project objectives are to be achieved fx. a [Gannt Chart](https://en.wikipedia.org/wiki/Gantt_chart)
+- [Project Charter](https://en.wikipedia.org/wiki/Project_charter)
+- [SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+
+<!-- omit in toc -->
+### The Planning Life Cycle
+
+<!-- omit in toc -->
+### The Executing Life Cycle
+
+<!-- omit in toc -->
+### The Closing Life Cycle
 
 ## Project Management Life Cycles (PMLC)
 
@@ -308,9 +302,11 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 - [Rapid application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) — an iterative and incremental framework that puts a larger focus on being practical rather than using valuable time on planning, design, and documentation.
 - [Component-Based Software Engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering) — an iterative and incremental framework, that is adapted to Component-Based Programming.
 
-# Math
+## Leadership Approaches
 
-## Discrete Math
+- Socio-Technical Approach
+
+# Discrete Math
 
 - [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html) — An online book that covers all the subjects of Discrete Mathematics
 
@@ -426,31 +422,42 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 
 ## Programming Basics
 
+<!-- omit in toc -->
 ### Data Types
 
+<!-- omit in toc -->
 ### Variables
 
+<!-- omit in toc -->
 ### Keywords
 
+<!-- omit in toc -->
 ### Logical and Arithmetical Operators
 
+<!-- omit in toc -->
 ### Conditions
 
+<!-- omit in toc -->
 ### Loops
 
+<!-- omit in toc -->
 ### Numbers, Characters and Arrays
 
+<!-- omit in toc -->
 ### Functions
 
+<!-- omit in toc -->
 ### Input and Output Operations
 
 ## Object-Oriented Programming
 
+<!-- omit in toc -->
 ### Objects and Classes
 
 - [Classes](https://en.wikipedia.org/wiki/Class_(computer_programming)) — an extensible program-code-template for creating objects.
 - [Objects](https://en.wikipedia.org/wiki/Object_(computer_science)) — a particular instance of a class
 
+<!-- omit in toc -->
 ### The Three Pillars of Object-Oriented Programming
 
 - [Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) — bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components.
@@ -459,6 +466,7 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 
 - [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)) — the provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types.
 
+<!-- omit in toc -->
 ### SOLID Principles
 
 - [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle) — A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
@@ -473,6 +481,7 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 
 ## Component-Oriented Programming
 
+<!-- omit in toc -->
 ### Component Characteristics
 
 - **Part of a Whole** — Components can be composed to and decomposed from a system. Composition of an appropriate set of components should yield a complete functional system; decomposition of a complete system should yield the set of constituent components.
@@ -486,11 +495,13 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 - **Producer-Consumer Independence** — A component may be produced and consumed by different commercial entities, as long as the producer and consumer have a common interface definition for the component in context. This property of the component is a derivative of implementation independence.
 - **Active and Passive Component** — During the composition process that composes components together, some participating components may be actively performing the composition, whereas the others may be passively participating in the composition process. Note that this notion of active and passive components is limited to the composition process; it does not imply that the passive components will continue to play a passive functional role in the resultant composite product.
 
+<!-- omit in toc -->
 ### Defining Software Components
 
 - **Function Libraries as Software Components** — a collection of functions packaged together, to form a function library, with an API. Cannot be resolved at Runtime.
 - **Object Libraries as Software Components** — a collection of objects, that together form an object library, with an API. Can be resolved at Runtime.
 
+<!-- omit in toc -->
 ### Elements of a Software Component
 
 - **Component specifications** — documents the piece of functionality implemented by the component.
@@ -561,6 +572,7 @@ Most Software Processes are more or less Hybrids, so to avoid disagreement, the 
 
 ## Software Libraries
 
+<!-- omit in toc -->
 ### Search Engines
 
 - [Elastic Search](https://www.elastic.co) — a distributed, open source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured.

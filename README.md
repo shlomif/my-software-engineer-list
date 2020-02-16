@@ -3,7 +3,7 @@
 
 This is a list of topics, theory and practical tools I find useful in my career as a Software Engineer. The list is meant to summarize the keywords with links provided.
 
-Feel free to contribute with Pull Requests, or fork this project to create your personalized list.
+Feel free to contribute with Pull Requests, issues, or fork this project to create your personalized list.
 
 - [Cultural Knowledge](#cultural-knowledge)
   - [Cultural Frameworks](#cultural-frameworks)
@@ -571,7 +571,7 @@ Python IDE's:
 ## Code Editors
 
 - [VSCode](https://code.visualstudio.com) — An electron based code-editor that can become a multipurpose IDE with the use of extensions — Originate from Microsoft.
-- [Atom](https://atom.io) — An electron based code-editor that can become a multipurpose IDE with the use of extensions — Originate from GitHub, who are acquisitioned by Microsoft (questionable support).
+- [Atom](https://atom.io) — An electron based code-editor that can become a multipurpose IDE with the use of extensions — Originate from GitHub, that have been acquisitioned by Microsoft (questionable support).
 
 ## Game Development Tools
 
